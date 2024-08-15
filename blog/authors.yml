@@ -21,3 +21,13 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+liming:
+  name: li ming
+  title: Engineer @ Variflight
+  url: https://github.com/catsonkeyboard
+  image_url: https://github.com/catsonkeyboard.png
+  page: true
+  socials:
+    x: cat2onkeyboard
+    github: catsonkeyboard    
